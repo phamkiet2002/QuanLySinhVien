@@ -1,0 +1,89 @@
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormGiangVien.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormSinhVien.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\kiet\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\kiet\Desktop\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\kiet\Desktop\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormLopHoc.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormMonHoc.resources
+F:\DoAn\DoAn\bin\Debug\DoAn.exe.config
+F:\DoAn\DoAn\bin\Debug\DoAn.exe
+F:\DoAn\DoAn\bin\Debug\DoAn.pdb
+F:\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+F:\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+F:\DoAn\DoAn\obj\Debug\DoAn.dto.FormChiTietMonHoc.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.FormGiangVien.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.FormLopHoc.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.FormMonHoc.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.FormSinhVien.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+F:\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+F:\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+F:\DoAn\DoAn\obj\Debug\DoAn.exe
+F:\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\di hoc\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\di hoc\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\di hoc\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.dto.FormChiTietMonHoc.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.FormGiangVien.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.FormLopHoc.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.FormMonHoc.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.FormSinhVien.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\di hoc\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormLopHocView.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormTimSV.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormLopHocView.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormGiangVien.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormLopHoc.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormMonHoc.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormSinhVien.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormTimSV.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormTrangChu.resources
+C:\Users\kiet\Desktop\New folder1\DoAn\DoAn\obj\Debug\DoAn.FormDangNhap.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormDangNhap.resources
+C:\Users\kiet\Desktop\DoAn\DoAn\obj\Debug\DoAn.FormTrangChu.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.AssemblyReference.cache
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormDangNhap.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormLopHocView.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormGiangVien.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormLopHoc.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormMain.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormMonHoc.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormSinhVien.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormTimSV.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.FormTrangChu.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\kiet\Desktop\do an tin hoc\DoAn\DoAn\obj\Debug\DoAn.pdb
